@@ -1,0 +1,22 @@
+.app__header {
+  background-color: black;
+}
+
+.app_header-h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #dcca87;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 115px;
+  font-size: 80px;
+}
+.app_wrapper_img img {
+  width: 55%;
+  margin: 25%;
+}
+
+.open-sans {
+  color: #dcca87;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 100;
+}
